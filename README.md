@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor Hugo Vieira</h1>
-<h3 align="center">An experienced Solution Archictect from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Victor Vieira Dimer</h1>
+<h3 align="center">An experienced Solution Archictect and Engineering Manager from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhvieira&label=Profile%20views&color=0e75b6&style=flat" alt="vhvieira" /> </p>
 

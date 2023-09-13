@@ -6,17 +6,15 @@
 
 - 🔭 I’m currently working on [Lifty](http://www.lifty.com.br)
 
-- 🌱 I’m currently learning **React, Go, Python, NLTK, Tensorflow, Apache Spark**
+- 🌱 I’m currently learning **Vertex AI, GPT-4, Go, Python, PyTorch, Tensorflow, Apache Spark**
 
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Data Science projects**
+- 👯 I’m looking to collaborate on **Generative AI, Machine Learning and Deep Learning**
 
-- 🤝 I’m looking for help with **Chatbot platform for SMBs**
-
-- 💬 Ask me about **Cloud (GCP), Artificial Inteligence, Machine Learning, Microservices, Databases, Topics, Docker and Kubernets**
+- 💬 Ask me about **Cloud (GCP), Artificial Inteligence, Generative AI, NLU/NLP, Vertex AI, Machine Learning, Deep learning, Microservices, Databases, TDD, Event Driven Architecture, Docker and Kubernetes**
 
 - 📫 How to reach me **victor@lifty.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/victor-dimer/] (https://www.linkedin.com/in/victor-dimer/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/victor-dimer/)
 
 <p align="left">
 </p>

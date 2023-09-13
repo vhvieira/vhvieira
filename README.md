@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **victor@lifty.com.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/victor-hugo-vieira-0b042710/](https://www.linkedin.com/in/victor-hugo-vieira-0b042710/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/victor-hugo-vieira-0b042710/](https://www.linkedin.com/in/victor-dimer/)
 
 <p align="left">
 </p>
